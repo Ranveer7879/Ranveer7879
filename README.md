@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ranveer Singh Thakur</h1>
 <h3 align="center">B.Tech Student | Java Backend Developer | Spring Boot Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ranveer7879&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 🚀 About Me
 - 🎓 **B.Tech** student passionate about **Java Development**
 - 💻 Love building **scalable backend systems** with **Spring Boot**
 - 📚 Currently diving deep into **Microservices** & **System Design**
-- ⚡ Fun fact: I solve DSA problems daily 🧠
+- ⚡ Fun fact: I solve DSA & Real world problem 🧠
 
 ---
 
@@ -46,13 +42,13 @@
 
 ### 📈 [Stock Trading App](https://github.com/Ranveer7879/stock-trading-app)
 > Real-time stock trading platform with market simulation
-- **Tech:** Java, Spring Boot, WebSocket, MySQL
-- **Features:** Live price updates, Portfolio management
+- **Tech:** Java, Spring Boot, MySQL
+- **Features:** Live price updates, Portfolio management,stock managment
 
 ### 🧺 [Laundry Booking System](https://github.com/Ranveer7879/laundry-booking-backend)
-> Complete laundry service booking platform
-- **Tech:** Frontend =Html,Css,JavaSCript & Backend=fast
-- **Features:** User auth, Order management, Payment integration
+> Complete laundry service booking website
+- **Tech:** Frontend =Html,Css,JavaSCript & Backend=fastApi
+- **Features:** profesional user interface, client products, booking system 
 
 ---
 
