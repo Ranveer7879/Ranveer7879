@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ranveer Singh Thakur</h1>
 <h3 align="center">B.Tech Student | Java Backend Developer | Spring Boot Enthusiast</h3>
+
+---
+
+## 🚀 About Me
+- 🎓 **B.Tech** student passionate about **Java Development**
+- 💻 Love building **scalable backend systems** with **Spring Boot**
+- 📚 Currently diving deep into **Microservices** & **System Design**
+- ⚡ Fun fact: I solve DSA & Real world problem 🧠
+
+---
 ## 📫 Connect With Me
 
 <p align="center">
@@ -10,16 +20,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
----
-
-## 🚀 About Me
-- 🎓 **B.Tech** student passionate about **Java Development**
-- 💻 Love building **scalable backend systems** with **Spring Boot**
-- 📚 Currently diving deep into **Microservices** & **System Design**
-- ⚡ Fun fact: I solve DSA & Real world problem 🧠
 
 ---
 
