@@ -32,9 +32,8 @@
 ---
 
 ## 📊 GitHub Stats
-
+<h2 align="center">👨‍💻 Ranveer Singh Thakur</h2>
 <p align="center">
-  Ranveer 
   <img src="https://github-readme-stats.vercel.app/api?username=Ranveer7879&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranveer7879&theme=radical&hide_border=true" width="48%" />
 </p>
@@ -42,7 +41,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranveer7879&layout=compact&theme=radical&hide_border=true" width="45%" />
 </p>
-
 ---
 
 ## 🏆 Featured Projects
