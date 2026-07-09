@@ -48,7 +48,11 @@
 ### 🧺 [Laundry Booking System](https://github.com/Ranveer7879/laundry-booking-backend)
 > Complete laundry service booking website
 - **Tech:** Frontend =Html,Css,JavaSCript & Backend=fastApi
-- **Features:** profesional user interface, client products, booking system 
+- **Features:** Professional UI(User Interface), Proper dashboard, working booking system
+- - **Highlights:**
+  - Real-world project currently in use
+  - Clean REST API architecture
+  - Scalable backend for future multi-client support
 
 ---
 
