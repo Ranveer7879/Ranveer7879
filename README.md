@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Ranveer Singh Thakur</h2>
-<h4 align="center">B.Tech Student | Java Backend Developer | Spring Boot Enthusiast</h4>
+<h4 align="center">B.Tech Student | Java Backend Developer | Spring Boot</h4>
 
 ---
 
